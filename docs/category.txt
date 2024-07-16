@@ -1,0 +1,7 @@
+# 常用搜索网站，如360ai，百度ai，掘金
+
+# 命令，如Maven，Linux，docker,mac,mvn, redis,es命令等
+
+# idea 插件，谷歌插件，油猴脚本
+
+# 官方网站，jdk， python，go，springboot，springcloud，Rocketmq，rabbitmq，卡夫卡
